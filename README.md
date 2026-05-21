@@ -42,25 +42,25 @@
 🤝 Open to collaboration, freelance opportunities & innovative projects  
 📫 Always excited to connect with developers, startups & tech enthusiasts  
 
-<p align="left">
-<a href="https://github.com/KhalidHasan03" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+<p align="center">
+  <a href="https://github.com/KhalidHasan03" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
 
-<a href="https://www.linkedin.com/in/khalid-hasan-shafi" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/khalid-hasan-shafi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
 
   <a href="https://www.facebook.com/khalidhasan.shafi.77" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
   </a>
 
   <a href="https://www.instagram.com/k_h_a_l_i_d__shafi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
 
   <a href="mailto:khalidhasanshafi@gmail.com?subject=Hello%20Khalid&body=Hi%20Khalid,%20I%20found%20your%20GitHub%20profile...">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
@@ -85,16 +85,26 @@
 
 </p>
 
+### 🤖 AI & Development Workflow
+
+<p>
+🧠 AI-Powered Development | Using AI tools for faster & efficient application building, improve code quality & explore better architectural solutions.
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalidHasan03&show_icons=true&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalidHasan03&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidHasan03&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidHasan03&layout=compact&theme=tokyonight" />
 </p>
 
 ---
