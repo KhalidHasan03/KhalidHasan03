@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-Passionate about transforming ideas into modern digital products through clean code, performance optimization, and creative problem-solving.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Passionate+about+transforming+ideas+into+modern+digital+products;Clean+Code+%7C+Performance+Optimization+%7C+Creative+Problem+Solving" />
 </p>
 
 ---
@@ -42,8 +42,6 @@ Passionate about transforming ideas into modern digital products through clean c
 🤝 Open to collaboration, freelance opportunities & innovative projects  
 📫 Always excited to connect with developers, startups & tech enthusiasts  
 
----
-
 <p align="left">
 <a href="https://github.com/KhalidHasan03" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
@@ -53,9 +51,17 @@ Passionate about transforming ideas into modern digital products through clean c
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:khalidhasan@hotmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
+  <a href="https://www.facebook.com/khalidhasan.shafi.77" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  </a>
+
+  <a href="https://www.instagram.com/k_h_a_l_i_d__shafi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+
+  <a href="mailto:khalidhasanshafi@gmail.com?subject=Hello%20Khalid&body=Hi%20Khalid,%20I%20found%20your%20GitHub%20profile...">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 ---
