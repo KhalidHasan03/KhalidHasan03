@@ -58,6 +58,10 @@
   <a href="mailto:khalidhasanshafi@gmail.com?subject=Hello%20Khalid&body=Hi%20Khalid,%20I%20found%20your%20GitHub%20profile...">
     <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
+
+  <a href="https://x.com/KhalidHasa37194" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
 </p>
 
 ---
