@@ -21,15 +21,15 @@
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
+<a href="https://github.com/KhalidHasan03" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="https://linkedin.com/in/KhalidHasan03" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:khalidhasan@hotmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
@@ -61,9 +61,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalidHasan03&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidHasan03&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -72,7 +72,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=KhalidHasan03&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -80,25 +80,88 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=KhalidHasan03&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛒 Laravel eCommerce Project
-- Modern eCommerce system using Laravel
-- Admin Dashboard
-- Product Management
-- Authentication System
-- Messaging System
+## 🛒 greenora_ecom
+> A modern eCommerce system built with Laravel and PHP
 
-## 📰 Laravel Blog Project
-- Dynamic Blog Website
-- Category & Tag System
-- Responsive Design
-- SEO Friendly Structure
+- ✅ Admin Dashboard
+- ✅ Product Management System
+- ✅ Secure Authentication
+- ✅ Order Tracking
+- ✅ User-Friendly Interface
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/greenora_ecom)
+
+---
+
+## 📦 inventory_management_system
+> Fully functional web-based Inventory Management System including POS
+
+- ✅ Manageable Seller & User System
+- ✅ Product & Inventory Tracking
+- ✅ POS Integration
+- ✅ Order Management
+- ✅ PHP Backend
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/inventory_management_system)
+
+---
+
+## 💬 java-client-server-chat
+> Console-based chat project for real-time user communication
+
+- ✅ Client-Server Architecture
+- ✅ Real-time Messaging
+- ✅ User Broadcasting
+- ✅ Java Implementation
+- ✅ Multi-User Support
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/java-client-server-chat)
+
+---
+
+## 🕯️ Candle Shop
+> Example candle shop with user-friendly features
+
+- ✅ Product Catalog
+- ✅ User-Friendly Interface
+- ✅ PHP Backend
+- ✅ Responsive Design
+- ✅ Shopping Features
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/Candle-shop)
+
+---
+
+## 🌐 portfolio.github.io
+> Personal portfolio website hosted on GitHub Pages
+
+- ✅ HTML/CSS Implementation
+- ✅ Responsive Layout
+- ✅ Project Showcase
+- ✅ Clean Design
+- ✅ Easy Navigation
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://KhalidHasan03.github.io)
+
+---
+
+## 🛍️ laravel-multiVendor-ecommerce
+> Full-featured Multi-Vendor Ecommerce system with role-based dashboards
+
+- ✅ Admin Dashboard
+- ✅ Vendor Dashboard
+- ✅ Customer Dashboard
+- ✅ Role-Based Access Control
+- ✅ Complete Ecommerce Solution
+
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
 
 ---
 
@@ -113,7 +176,7 @@
 # 👀 Profile Views
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=KhalidHasan03&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
