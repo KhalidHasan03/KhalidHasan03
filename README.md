@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Laravel+Backend+Developer;Architecting+Secure+REST+APIs;Building+Scalable+MySQL+Solutions;Developing+Modern+Business+Applications" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1400&lines=Laravel+Backend+Developer+%7C+Architecting+Secure+REST+APIs+%26+Scalable+MySQL+Solutions+for+Modern+Businesses" />
-</p>
 
 ---
 
