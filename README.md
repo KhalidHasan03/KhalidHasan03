@@ -1,25 +1,48 @@
-<h1 align="center">Hi 👋, I'm Khalid Hasan Shafi</h1>
-<h3 align="center">Laravel Developer | PHP Enthusiast | Future Full Stack Engineer 🚀</h3>
+<h1 align="center">Hey 👋 I'm Khalid Hasan Shafi</h1>
+
+<h3 align="center">
+🚀 Laravel Backend Developer | Crafting Scalable Web Applications & Secure REST APIs
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Laravel+Backend+Developer;Architecting+Secure+REST+APIs;Building+Scalable+MySQL+Solutions;Developing+Modern+Business+Applications" />
+Passionate about transforming ideas into modern digital products through clean code, performance optimization, and creative problem-solving.
 </p>
 
+---
+
+# 🧠 Who Am I?
+
+💻 Backend-focused developer specialized in Laravel & PHP  
+⚡ Building secure, scalable & user-focused web applications  
+🛠️ Passionate about APIs, SaaS products & system architecture  
+🌱 Currently exploring React, modern full stack workflows & advanced backend engineering  
+🚀 On a journey to become a world-class Full Stack Engineer  
+🔥 Love turning complex ideas into simple, functional solutions  
 
 ---
 
-# 💫 About Me
+# 🎯 What I Do
 
-- 🔭 Currently working on **Laravel Web Applications**
-- 🌱 Learning **React, API Development & Advanced Laravel**
-- 💡 Interested in **Web Development & SaaS Products**
-- 💬 Ask me about **PHP, Laravel, MySQL, GitHub**
-- 🚀 Goal: Become a professional Full Stack Developer
-- ⚡ Fun fact: I love building creative projects & learning new tech
+✔️ Develop modern Laravel applications  
+✔️ Build secure REST APIs & authentication systems  
+✔️ Design scalable MySQL database structures  
+✔️ Create admin dashboards & business management systems  
+✔️ Optimize performance & write clean maintainable code  
 
 ---
 
-# 🌐 Connect With Me
+# 💡 Developer Mindset
+
+> "Great applications are not just coded — they are engineered with vision, scalability, and user experience in mind."
+
+---
+
+# 🌐 Let's Connect
+
+🤝 Open to collaboration, freelance opportunities & innovative projects  
+📫 Always excited to connect with developers, startups & tech enthusiasts  
+
+---
 
 <p align="left">
 <a href="https://github.com/KhalidHasan03" target="blank">
