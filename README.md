@@ -2,7 +2,11 @@
 <h3 align="center">Laravel Developer | PHP Enthusiast | Future Full Stack Engineer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Laravel+Developer;PHP+%26+Web+Development+Lover;Learning+React+%26+Modern+Web+Technologies;Building+Creative+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=Laravel+Backend+Developer;Architecting+Secure+REST+APIs;Building+Scalable+MySQL+Solutions;Developing+Modern+Business+Applications" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1400&lines=Laravel+Backend+Developer+%7C+Architecting+Secure+REST+APIs+%26+Scalable+MySQL+Solutions+for+Modern+Businesses" />
 </p>
 
 ---
