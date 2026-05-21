@@ -42,17 +42,13 @@
 🤝 Open to collaboration, freelance opportunities & innovative projects  
 📫 Always excited to connect with developers, startups & tech enthusiasts  
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/KhalidHasan03" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
 
   <a href="https://www.linkedin.com/in/khalid-hasan-shafi" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-
-  <a href="https://www.facebook.com/khalidhasan.shafi.77" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
   </a>
 
   <a href="https://www.instagram.com/k_h_a_l_i_d__shafi" target="_blank">
@@ -85,26 +81,12 @@
 
 </p>
 
-### 🤖 AI & Development Workflow
-
-<p>
-🧠 AI-Powered Development | Using AI tools for faster & efficient application building, improve code quality & explore better architectural solutions.
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
 ---
 
-# 📊 GitHub Stats
+# 🤖 AI & Development Workflow
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KhalidHasan03&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidHasan03&layout=compact&theme=tokyonight" />
+<p>
+🧠 Leveraging AI-powered tools to speed up development, improve code quality, and build scalable, well-structured software architectures with better decision-making.
 </p>
 
 ---
