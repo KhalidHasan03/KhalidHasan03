@@ -1,212 +1,121 @@
-<h1 align="center">Hey 👋 I'm Khalid Hasan Shafi</h1>
+# Khalid Hasan Shafi
+khalidhasan03 / README.md
 
-<h3 align="center">
-🚀 Laravel Backend Developer | Crafting Scalable Web Applications & Secure REST APIs
-</h3>
+## Hey! Nice to see you.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Passionate+about+transforming+ideas+into+modern+digital+products;Clean+Code+%7C+Performance+Optimization+%7C+Creative+Problem+Solving" />
-</p>
+Welcome to my page!  
+I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, currently building scalable web applications and secure REST APIs.
 
----
+### Things I code with
 
-# 🧠 Who Am I?
-
-💻 Backend-focused developer specialized in Laravel & PHP  
-⚡ Building secure, scalable & user-focused web applications  
-🛠️ Passionate about APIs, SaaS products & system architecture  
-🌱 Currently exploring React, modern full stack workflows & advanced backend engineering  
-🚀 On a journey to become a world-class Full Stack Engineer  
-🔥 Love turning complex ideas into simple, functional solutions  
-
----
-
-# 🎯 What I Do
-
-✔️ Develop modern Laravel applications  
-✔️ Build secure REST APIs & authentication systems  
-✔️ Design scalable MySQL database structures  
-✔️ Create admin dashboards & business management systems  
-✔️ Optimize performance & write clean maintainable code  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-# 💡 Developer Mindset
+## Open source projects
 
-> "Great applications are not just coded — they are engineered with vision, scalability, and user experience in mind."
-
----
-
-# 🌐 Let's Connect
-
-🤝 Open to collaboration, freelance opportunities & innovative projects  
-📫 Always excited to connect with developers, startups & tech enthusiasts  
-
-<p align="left">
-  <a href="https://github.com/KhalidHasan03" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/khalid-hasan-shafi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-
-  <a href="https://www.instagram.com/k_h_a_l_i_d__shafi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
-  </a>
-
-  <a href="mailto:khalidhasanshafi@gmail.com?subject=Hello%20Khalid&body=Hi%20Khalid,%20I%20found%20your%20GitHub%20profile...">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-
-  <a href="https://x.com/KhalidHasa37194" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
-  </a>
-</p>
+| Project | Stars | Forks | Issues | Pull requests |
+|---------|-------|-------|--------|---------------|
+| [greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
+| [inventory_management_system](https://github.com/KhalidHasan03/inventory_management_system) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
+| [laravel-multiVendor-ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
+| [java-client-server-chat](https://github.com/KhalidHasan03/java-client-server-chat) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
+| [Candle-shop](https://github.com/KhalidHasan03/Candle-shop) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
+| [portfolio.github.io](https://github.com/KhalidHasan03/portfolio.github.io) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
 
 ---
 
-# 💻 Tech Stack
+## My latest posts
 
-<p align="left">
+> *I'm currently focusing on building awesome Laravel applications. Blog posts coming soon!*
 
-<img src="https://skillicons.dev/icons?i=php" />
-<img src="https://skillicons.dev/icons?i=laravel" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=tailwind" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
+- **🚀 Coming Soon:** Building Scalable REST APIs with Laravel  
+  *A comprehensive guide to API development best practices*
 
-</p>
+- **📝 Coming Soon:** Laravel vs Other PHP Frameworks  
+  *Why Laravel dominates the PHP ecosystem*
 
----
+- **⚡ Coming Soon:** Optimizing MySQL Queries for Laravel Applications  
+  *Performance tuning techniques you need to know*
 
-# 🤖 AI & Development Workflow
+- **🔐 Coming Soon:** Implementing JWT Authentication in Laravel  
+  *Secure your APIs the right way*
 
-<p>
-🧠 Leveraging AI-powered tools to speed up development, improve code quality, and build scalable, well-structured software architectures with better decision-making.
-</p>
+- **🛠️ Coming Soon:** Building an Admin Dashboard with Laravel and Tailwind CSS  
+  *From zero to production-ready dashboard*
+
+- **🧠 Coming Soon:** How AI is Changing Backend Development  
+  *Leveraging AI tools to write better PHP code*
 
 ---
 
-# 🔥 GitHub Streak
+## Where to find me
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KhalidHasan03&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KhalidHasan03&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhalidHasan03)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/KhalidHasa37194)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-hasan-shafi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k_h_a_l_i_d__shafi)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khalidhasan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalidhasanshafi@gmail.com)
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛒 greenora_ecom
-> A modern eCommerce system built with Laravel and PHP
-
-- ✅ Admin Dashboard
-- ✅ Product Management System
-- ✅ Secure Authentication
-- ✅ Order Tracking
-- ✅ User-Friendly Interface
-
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/greenora_ecom)
+📌 **Currently based in:** 🇧🇩 Bangladesh  
+🌍 **Open to:** Remote opportunities & collaborations
 
 ---
 
-## 📦 inventory_management_system
-> Fully functional web-based Inventory Management System including POS
-
-- ✅ Manageable Seller & User System
-- ✅ Product & Inventory Tracking
-- ✅ POS Integration
-- ✅ Order Management
-- ✅ PHP Backend
-
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/inventory_management_system)
+> **This README file is generated regularly!**  
+> *Last refresh: Wednesday, 26 May 2026, 16:30 BST*  
+> [Create your own like this!](https://github.com/KhalidHasan03/KhalidHasan03)
 
 ---
 
-## 💬 java-client-server-chat
-> Console-based chat project for real-time user communication
+### 📌 Pinned Repositories
 
-- ✅ Client-Server Architecture
-- ✅ Real-time Messaging
-- ✅ User Broadcasting
-- ✅ Java Implementation
-- ✅ Multi-User Support
-
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/java-client-server-chat)
-
----
-
-## 🕯️ Candle Shop
-> Example candle shop with user-friendly features
-
-- ✅ Product Catalog
-- ✅ User-Friendly Interface
-- ✅ PHP Backend
-- ✅ Responsive Design
-- ✅ Shopping Features
-
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/Candle-shop)
+| Repository | Description | Language | ⭐ Stars | 🍴 Forks |
+|------------|-------------|----------|----------|----------|
+| **[greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom)** | Modern eCommerce system built with Laravel and PHP | PHP | 0 | 0 |
+| **[inventory_management_system](https://github.com/KhalidHasan03/inventory_management_system)** | Web-based Inventory Management System including POS | PHP | 0 | 0 |
+| **[laravel-multiVendor-ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)** | Full-featured Multi-Vendor Ecommerce system with role dashboards | PHP | 0 | 0 |
+| **[java-client-server-chat](https://github.com/KhalidHasan03/java-client-server-chat)** | Console-based chat project for real-time user communication | Java | 0 | 0 |
+| **[Candle-shop](https://github.com/KhalidHasan03/Candle-shop)** | Example candle shop with user-friendly features | PHP | 0 | 0 |
+| **[portfolio.github.io](https://KhalidHasan03.github.io)** | Personal portfolio website hosted on GitHub Pages | HTML/CSS | 0 | 0 |
 
 ---
 
-## 🌐 portfolio.github.io
-> Personal portfolio website hosted on GitHub Pages
+### 📊 GitHub Stats
 
-- ✅ HTML/CSS Implementation
-- ✅ Responsive Layout
-- ✅ Project Showcase
-- ✅ Clean Design
-- ✅ Easy Navigation
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel)](https://KhalidHasan03.github.io)
+![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalidHasan03&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=KhalidHasan03&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalidHasan03&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🛍️ laravel-multiVendor-ecommerce
-> Full-featured Multi-Vendor Ecommerce system with role-based dashboards
+### 🏆 GitHub Trophies
 
-- ✅ Admin Dashboard
-- ✅ Vendor Dashboard
-- ✅ Customer Dashboard
-- ✅ Role-Based Access Control
-- ✅ Complete Ecommerce Solution
-
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
+![Trophies](https://github-profile-trophy.vercel.app/?username=KhalidHasan03&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ---
 
-# ✍️ Random Dev Quote
+### 👀 Profile Views
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=KhalidHasan03&label=Profile%20views&color=FF2D20&style=flat-square)
 
 ---
 
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=KhalidHasan03&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
----
-
-<p align="center">
-✨ Thanks for visiting my profile ✨
-</p>
+*✨ Thanks for stopping by! Feel free to explore my repositories and connect with me. ✨*
