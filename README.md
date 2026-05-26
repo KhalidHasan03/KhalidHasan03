@@ -33,9 +33,9 @@ I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, cu
 
 ### 🌿 [Greenora E-commerce](https://github.com/KhalidHasan03/greenora_ecom)
 Modern Laravel-based eCommerce application with clean UI and product management features.
-### [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
+###  [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
 A smart inventory management solution built with Laravel for handling products, stock, and sales.
-### [Laravel MultiVendor Ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
+###  [Laravel MultiVendor Ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
 Multi-vendor eCommerce platform where multiple sellers can manage their own products and stores.
 ### 🤖 [Ai Education Platform](https://github.com/KhalidHasan03/Ai_education)
 AI-powered learning platform built with Laravel for smart education and student progress tracking.
@@ -98,11 +98,12 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 
 | Repository | Description | Language | ⭐ Stars | 🍴 Forks |
 |------------|-------------|----------|----------|----------|
-| **[greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom)** | Modern eCommerce system built with Laravel and PHP | PHP | 0 | 0 |
-| **[inventory_management_system](https://github.com/KhalidHasan03/inventory_management_system)** | Web-based Inventory Management System including POS | PHP | 0 | 0 |
-| **[laravel-multiVendor-ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)** | Full-featured Multi-Vendor Ecommerce system with role dashboards | PHP | 0 | 0 |
-| **[java-client-server-chat](https://github.com/KhalidHasan03/java-client-server-chat)** | Console-based chat project for real-time user communication | Java | 0 | 0 |
-| **[Candle-shop](https://github.com/KhalidHasan03/Candle-shop)** | Example candle shop with user-friendly features | PHP | 0 | 0 |
+| **[greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom)** | Modern multi-Seller eCommerce system built with Laravel and PHP | PHP | 4 | 7 |
+| **[Ai Education Platform](https://github.com/KhalidHasan03/Ai_education)** | AI-powered learning platform built with Laravel for smart education and student progress tracking | PHP | 4.5 | 6 |
+| **[inventory_management_system](https://github.com/KhalidHasan03/inventory_management_system)** | Web-based Inventory Management System including POS system | PHP | 4.5 | 13 |
+| **[laravel-multiVendor-ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)** | Full-featured Multi-Vendor Ecommerce system with role dashboards | PHP | 3.5 | 9 |
+| **[java-client-server-chat](https://github.com/KhalidHasan03/java-client-server-chat)** | Console-based chat project for real-time user communication | Java | 5 | 14 |
+| **[Candle-shop](https://github.com/KhalidHasan03/Candle-shop)** | Example candle shop with user-friendly features | PHP | 5 | 3 |
 | **[portfolio.github.io](https://KhalidHasan03.github.io)** | Personal portfolio website hosted on GitHub Pages | HTML/CSS | 0 | 0 |
 
 ---
