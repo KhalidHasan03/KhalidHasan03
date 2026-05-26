@@ -13,6 +13,9 @@ I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, cu
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,18 +29,31 @@ I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, cu
 
 ---
 
-## Open source projects
+## 🚀 Open Source Projects
 
-| Project | Stars | Forks | Issues | Pull requests |
-|---------|-------|-------|--------|---------------|
-| [greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
-| [inventory_management_system](https://github.com/KhalidHasan03/inventory_management_system) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
-| [laravel-multiVendor-ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
-| [java-client-server-chat](https://github.com/KhalidHasan03/java-client-server-chat) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
-| [Candle-shop](https://github.com/KhalidHasan03/Candle-shop) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
-| [portfolio.github.io](https://github.com/KhalidHasan03/portfolio.github.io) | ⭐ 0 | 🔱 0 | 🐛 0 | 🔁 0 |
+### 🌿 [Greenora E-commerce](https://github.com/KhalidHasan03/greenora_ecom)
+Modern Laravel-based eCommerce application with clean UI and product management features.
 
 ---
+
+### 📦 [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
+A smart inventory management solution built with Laravel for handling products, stock, and sales.
+
+---
+
+### 🛒 [Laravel MultiVendor Ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
+Multi-vendor eCommerce platform where multiple sellers can manage their own products and stores.
+
+---
+### 💬 [Java Client Server Chat](https://github.com/KhalidHasan03/java-client-server-chat)
+Real-time client-server chat application developed using Java socket programming.
+---
+### 🕯️ [Candle Shop](https://github.com/KhalidHasan03/Candle-shop)
+Simple and elegant online candle shop website with responsive design.
+---
+### 🌐 [Portfolio Website](https://github.com/KhalidHasan03/portfolio.github.io)
+Personal portfolio website showcasing projects, skills, and developer journey.
+
 
 ## My latest posts
 
