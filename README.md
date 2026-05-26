@@ -64,7 +64,7 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 - **  Coming Soon:** Implementing JWT Authentication in Laravel  
   *Secure your APIs the right way*
 
-- **🧠 Coming Soon:** How AI is Changing Backend Development  
+- ** Coming Soon:** How AI is Changing Backend Development  
   *Leveraging AI tools to write better PHP code*
 
 ---
