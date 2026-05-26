@@ -33,10 +33,8 @@ I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, cu
 
 ### 🌿 [Greenora E-commerce](https://github.com/KhalidHasan03/greenora_ecom)
 Modern Laravel-based eCommerce application with clean UI and product management features.
-
 ---
-
-## 📦 [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
+### [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
 A smart inventory management solution built with Laravel for handling products, stock, and sales.
 ---
 ### [Laravel MultiVendor Ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
