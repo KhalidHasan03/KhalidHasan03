@@ -36,10 +36,12 @@ Modern Laravel-based eCommerce application with clean UI and product management 
 
 ---
 
-### 📦 [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
+## 📦 [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
 A smart inventory management solution built with Laravel for handling products, stock, and sales.
+---
 ### [Laravel MultiVendor Ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
 Multi-vendor eCommerce platform where multiple sellers can manage their own products and stores.
+---
 ### 🤖 [Ai Education Platform](https://github.com/KhalidHasan03/Ai_education)
 AI-powered learning platform built with Laravel for smart education and student progress tracking.
 ### 💬 [Java Client Server Chat](https://github.com/KhalidHasan03/java-client-server-chat)
