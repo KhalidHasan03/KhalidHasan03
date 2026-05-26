@@ -52,20 +52,17 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 
 > *I'm currently focusing on building awesome Laravel applications. Blog posts coming soon!*
 
-- **🚀 Coming Soon:** Building Scalable REST APIs with Laravel  
+- **  Coming Soon:** Building Scalable REST APIs with Laravel  
   *A comprehensive guide to API development best practices*
 
-- **📝 Coming Soon:** Laravel vs Other PHP Frameworks  
+- **  Coming Soon:** Laravel vs Other PHP Frameworks  
   *Why Laravel dominates the PHP ecosystem*
 
-- **⚡ Coming Soon:** Optimizing MySQL Queries for Laravel Applications  
+- **  Coming Soon:** Optimizing MySQL Queries for Laravel Applications  
   *Performance tuning techniques you need to know*
 
-- **🔐 Coming Soon:** Implementing JWT Authentication in Laravel  
+- **  Coming Soon:** Implementing JWT Authentication in Laravel  
   *Secure your APIs the right way*
-
-- **🛠️ Coming Soon:** Building an Admin Dashboard with Laravel and Tailwind CSS  
-  *From zero to production-ready dashboard*
 
 - **🧠 Coming Soon:** How AI is Changing Backend Development  
   *Leveraging AI tools to write better PHP code*
