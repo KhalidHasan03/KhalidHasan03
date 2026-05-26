@@ -14,7 +14,7 @@ I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, cu
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -38,22 +38,18 @@ Modern Laravel-based eCommerce application with clean UI and product management 
 
 ### 📦 [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
 A smart inventory management solution built with Laravel for handling products, stock, and sales.
-
----
-
-### 🛒 [Laravel MultiVendor Ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
+### [Laravel MultiVendor Ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)
 Multi-vendor eCommerce platform where multiple sellers can manage their own products and stores.
-
----
+### 🤖 [Ai Education Platform](https://github.com/KhalidHasan03/Ai_education)
+AI-powered learning platform built with Laravel for smart education and student progress tracking.
 ### 💬 [Java Client Server Chat](https://github.com/KhalidHasan03/java-client-server-chat)
 Real-time client-server chat application developed using Java socket programming.
----
-### 🕯️ [Candle Shop](https://github.com/KhalidHasan03/Candle-shop)
+### [Candle Shop](https://github.com/KhalidHasan03/Candle-shop)
 Simple and elegant online candle shop website with responsive design.
----
-### 🌐 [Portfolio Website](https://github.com/KhalidHasan03/portfolio.github.io)
+### [Portfolio Website](https://github.com/KhalidHasan03/portfolio.github.io)
 Personal portfolio website showcasing projects, skills, and developer journey.
 
+---
 
 ## My latest posts
 
