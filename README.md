@@ -101,7 +101,7 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 | **[laravel-multiVendor-ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)** | Full-featured Multi-Vendor Ecommerce system with role dashboards | PHP | 3.5 | 9 |
 | **[java-client-server-chat](https://github.com/KhalidHasan03/java-client-server-chat)** | Console-based chat project for real-time user communication | Java | 5 | 14 |
 | **[Candle-shop](https://github.com/KhalidHasan03/Candle-shop)** | Example candle shop with user-friendly features | PHP | 5 | 3 |
-| **[portfolio.github.io](https://KhalidHasan03.github.io)** | Personal portfolio website hosted on GitHub Pages | HTML/CSS | 0 | 0 |
+| **[portfolio.github.io](https://KhalidHasan03.github.io)** | Personal portfolio website hosted on GitHub Pages | PHP | 0 | 0 |
 
 ---
 
