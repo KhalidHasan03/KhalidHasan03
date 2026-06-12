@@ -31,6 +31,9 @@ I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, cu
 
 ## 🚀 Open Source Projects
 
+
+###  [Learn & Practice with AI](https://github.com/KhalidHasan03/learn_with_AI)
+An AI-powered learning platform that adapts to you. Get personalized courses, AI tutoring with voice interaction, smart notes, and interactive quizzes.
 ### 🌿 [Greenora E-commerce](https://github.com/KhalidHasan03/greenora_ecom)
 Modern Laravel-based eCommerce application with clean UI and product management features.
 ###  [Inventory Management System](https://github.com/KhalidHasan03/inventory_management_system)
