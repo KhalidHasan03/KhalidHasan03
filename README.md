@@ -96,9 +96,10 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 
 ### 📌 Pinned Repositories
 
+<div align="center">
+
 | Repository | Description | Language | ⭐ Stars |
 |------------|-------------|----------|----------|
-
 | **[Learn & Practice with AI](https://github.com/KhalidHasan03/learn_with_AI)** | An AI-powered learning platform that adapts to you. Get personalized courses, AI tutoring with voice interaction, smart notes, and interactive quizzes. | PHP | 5 |
 | **[greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom)** | Modern multi-Seller eCommerce system built with Laravel and PHP | PHP | 4 |
 | **[Ai Education Platform](https://github.com/KhalidHasan03/Ai_education)** | AI-powered learning platform built with Laravel for smart education and student progress tracking | PHP | 4.5 |
@@ -106,7 +107,8 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 | **[laravel-multiVendor-ecommerce](https://github.com/KhalidHasan03/laravel-multiVendor-ecommerce)** | Full-featured Multi-Vendor Ecommerce system with role dashboards | PHP | 3.5 |
 | **[java-client-server-chat](https://github.com/KhalidHasan03/java-client-server-chat)** | Console-based chat project for real-time user communication | Java | 5 |
 | **[Candle-shop](https://github.com/KhalidHasan03/Candle-shop)** | Example candle shop with user-friendly features | PHP | 5 |
-| **[portfolio.github.io](https://KhalidHasan03.github.io)** | Personal portfolio website hosted on GitHub Pages | PHP | 0 |
+
+</div>
 
 ---
 
