@@ -98,6 +98,10 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 
 | Repository | Description | Language | ⭐ Stars | 🍴 Forks |
 |------------|-------------|----------|----------|----------|
+
+###  [Learn & Practice with AI](https://github.com/KhalidHasan03/learn_with_AI)
+An AI-powered learning platform that adapts to you. Get personalized courses, AI tutoring with voice interaction, smart notes, and interactive quizzes.
+| **[Learn & Practice with AI](https://github.com/KhalidHasan03/learn_with_AI)** | An AI-powered learning platform that adapts to you. Get personalized courses, AI tutoring with voice interaction, smart notes, and interactive quizzes. | PHP | 5 | 37 |
 | **[greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom)** | Modern multi-Seller eCommerce system built with Laravel and PHP | PHP | 4 | 7 |
 | **[Ai Education Platform](https://github.com/KhalidHasan03/Ai_education)** | AI-powered learning platform built with Laravel for smart education and student progress tracking | PHP | 4.5 | 6 |
 | **[inventory_management_system](https://github.com/KhalidHasan03/inventory_management_system)** | Web-based Inventory Management System including POS system | PHP | 4.5 | 13 |
