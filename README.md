@@ -4,9 +4,9 @@ khalidhasan03 / README.md
 ## Hey! Nice to see you.
 
 Welcome to my page!  
-I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, currently building scalable web applications and secure REST APIs.
+I'm **Khalid Hasan Shafi**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, passionate about building scalable web applications, secure REST APIs, and modern management systems using Laravel, React, and MySQL.
 
-### Things I code with
+### 🛠 Tech Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -15,7 +15,6 @@ I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, cu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -31,7 +30,9 @@ I'm **Khalid**, a **Laravel Backend Developer** from 🇧🇩 **Bangladesh**, cu
 
 ## 🚀 Open Source Projects
 
+### 🏫 [DIU Hall-2 Management Portal](https://github.com/KhalidHasan03/DIU-hall-2-portal)
 
+A modern hostel management platform designed for Daffodil International University Hall-2. The system streamlines meal booking, attendance tracking, expense calculation, automated meal-rate generation, billing, payment management, notices, and analytics through a secure role-based architecture. Built with Laravel, React, TypeScript, Tailwind CSS, and MySQL to provide a scalable and user-friendly digital solution for students and hall administrators.
 ###  [Learn & Practice with AI](https://github.com/KhalidHasan03/learn_with_AI)
 An AI-powered learning platform that adapts to you. Get personalized courses, AI tutoring with voice interaction, smart notes, and interactive quizzes.
 ### 🌿 [Greenora E-commerce](https://github.com/KhalidHasan03/greenora_ecom)
@@ -84,7 +85,11 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 ---
 
 📌 **Currently based in:** 🇧🇩 Bangladesh  
-🌍 **Open to:** Remote opportunities & collaborations
+🌍 **Open to:**
+• Laravel Backend Development
+• Full Stack Laravel Projects
+• Remote Opportunities
+• Open Source Collaboration
 
 ---
 
@@ -100,6 +105,7 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 
 | Repository | Description | Language | ⭐ Stars |
 |------------|-------------|----------|----------|
+| **[DIU-hall-2-portal](https://github.com/KhalidHasan03/DIU-hall-2-portal)** | Complete Hostel Meal & Expense Management System with RBAC, meal booking, attendance, billing, payments and reporting | PHP | ⭐ |
 | **[Learn & Practice with AI](https://github.com/KhalidHasan03/learn_with_AI)** | An AI-powered learning platform that adapts to you. Get personalized courses, AI tutoring with voice interaction, smart notes, and interactive quizzes. | PHP | 5 |
 | **[greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom)** | Modern multi-Seller eCommerce system built with Laravel and PHP | PHP | 4 |
 | **[Ai Education Platform](https://github.com/KhalidHasan03/Ai_education)** | AI-powered learning platform built with Laravel for smart education and student progress tracking | PHP | 4.5 |
@@ -132,4 +138,6 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 
 ---
 
-*✨ Thanks for stopping by! Feel free to explore my repositories and connect with me. ✨*
+**⭐ Thanks for visiting my profile!**
+
+*If you like my projects, consider giving them a star and feel free to connect. I'm always excited to collaborate on Laravel, backend engineering, and open-source projects.*
