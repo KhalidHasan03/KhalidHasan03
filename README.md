@@ -32,7 +32,7 @@ I'm **Khalid Hasan Shafi**, a **Laravel Backend Developer** from 🇧🇩 **Bang
 
 ### 🏫 [DIU Hall-2 Management Portal](https://github.com/KhalidHasan03/DIU-hall-2-portal)
 
-A modern hostel management platform designed for Daffodil International University Hall-2. The system streamlines meal booking, attendance tracking, expense calculation, automated meal-rate generation, billing, payment management, notices, and analytics through a secure role-based architecture. Built with Laravel, React, TypeScript, Tailwind CSS, and MySQL to provide a scalable and user-friendly digital solution for students and hall administrators.
+A modern hostel management platform designed for Dhaka International University Hall-2. The system streamlines meal booking, attendance tracking, expense calculation, automated meal-rate generation, billing, payment management, notices, and analytics through a secure role-based architecture. Built with Laravel, React, TypeScript, Tailwind CSS, and MySQL to provide a scalable and user-friendly digital solution for students and hall administrators.
 ###  [Learn & Practice with AI](https://github.com/KhalidHasan03/learn_with_AI)
 An AI-powered learning platform that adapts to you. Get personalized courses, AI tutoring with voice interaction, smart notes, and interactive quizzes.
 ### 🌿 [Greenora E-commerce](https://github.com/KhalidHasan03/greenora_ecom)
