@@ -105,7 +105,7 @@ Personal portfolio website showcasing projects, skills, and developer journey.
 
 | Repository | Description | Language | ⭐ Stars |
 |------------|-------------|----------|----------|
-| **[DIU-hall-2-portal](https://github.com/KhalidHasan03/DIU-hall-2-portal)** | Complete Hostel Meal & Expense Management System with RBAC, meal booking, attendance, billing, payments and reporting | PHP | ⭐ |
+| **[DIU-hall-2-portal](https://github.com/KhalidHasan03/DIU-hall-2-portal)** | Complete Hostel Meal & Expense Management System with RBAC, meal booking, attendance, billing, payments and reporting | PHP | 5 |
 | **[Learn & Practice with AI](https://github.com/KhalidHasan03/learn_with_AI)** | An AI-powered learning platform that adapts to you. Get personalized courses, AI tutoring with voice interaction, smart notes, and interactive quizzes. | PHP | 5 |
 | **[greenora_ecom](https://github.com/KhalidHasan03/greenora_ecom)** | Modern multi-Seller eCommerce system built with Laravel and PHP | PHP | 4 |
 | **[Ai Education Platform](https://github.com/KhalidHasan03/Ai_education)** | AI-powered learning platform built with Laravel for smart education and student progress tracking | PHP | 4.5 |
